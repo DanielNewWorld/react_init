@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DanielNewWorld/react_init.git/static/css/main.073c9b0a.css",
+    "main.js": "/DanielNewWorld/react_init.git/static/js/main.94a18603.js",
+    "static/js/787.28cb0dcd.chunk.js": "/DanielNewWorld/react_init.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/DanielNewWorld/react_init.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DanielNewWorld/react_init.git/index.html",
+    "main.073c9b0a.css.map": "/DanielNewWorld/react_init.git/static/css/main.073c9b0a.css.map",
+    "main.94a18603.js.map": "/DanielNewWorld/react_init.git/static/js/main.94a18603.js.map",
+    "787.28cb0dcd.chunk.js.map": "/DanielNewWorld/react_init.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.94a18603.js"
+  ]
+}
